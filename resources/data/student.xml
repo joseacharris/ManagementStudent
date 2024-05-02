@@ -1,0 +1,26 @@
+<XML version="1.0" encoding="UTF-8"> 
+<student>
+<code>1057606705</code>
+<name>José Ch</name>
+<nacionality>COL</nacionality>
+<codeTypeID>CC</codeTypeID>
+<numberID>1057606***</numberID>
+<dateAdmission>17/07/1998</dateAdmission>
+</student>
+<student>
+<code>1057606704</code>
+<name>José Ch</name>
+<nacionality>COL</nacionality>
+<codeTypeID>CC</codeTypeID>
+<numberID>1057606***</numberID>
+<dateAdmission>17/07/1998</dateAdmission>
+</student>
+<student>
+<code>1057606700</code>
+<name>José Ch</name>
+<nacionality>COL</nacionality>
+<codeTypeID>CC</codeTypeID>
+<numberID>1057606***</numberID>
+<dateAdmission>17/07/1998</dateAdmission>
+</student>
+</XML>
